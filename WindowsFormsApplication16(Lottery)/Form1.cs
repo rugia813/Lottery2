@@ -17,7 +17,7 @@ namespace WindowsFormsApplication16_Lottery_
         //大福彩變數
         int[] arrDFtemp = new int[7];
         List<TextBox> tbArrDFnums = new List<TextBox>();
-        List<CheckBox> cbArrDFlocks = new List<CheckBox>();
+        List<CheckBox> cbArrDFlocks = new List<CheckBox>();//
         int[] intArrDFsort;
 
         //今彩539變數
